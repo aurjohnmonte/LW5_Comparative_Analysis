@@ -4,19 +4,6 @@
 
 ---
 
-## 📁 Project Structure
-
-```
-├── notebook.ipynb               # Main Google Colab notebook
-├── README.md                    # This file
-├── guide_questions.md           # Final reflection answers
-└── visualizations/
-    ├── confusion_matrices/      # Per-model confusion matrix plots
-    ├── roc_curves/              # Per-model ROC curve plots
-    ├── gradcam_comparison.png   # Grad-CAM heatmap (3 models side by side)
-    └── gradcam_all_models.png   # Grad-CAM heatmap (all 10 models)
-```
-
 ---
 
 ## 📦 Dataset
