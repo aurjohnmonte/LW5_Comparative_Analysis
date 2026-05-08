@@ -32,7 +32,7 @@
 
 ## 🚀 How to Run
 
-1. Open `notebook.ipynb` in [Google Colab]([https://colab.research.google.com/](https://colab.research.google.com/drive/1xmJv8Vo_nPDTnOxXRLmMHT70yR30-mOX?usp=sharing))
+1. Open `notebook.ipynb` in [Google Colab](https://colab.research.google.com/drive/1xmJv8Vo_nPDTnOxXRLmMHT70yR30-mOX?usp=sharing)
 2. Mount Google Drive and verify `dataset_path`
 3. Run all cells in order (top to bottom)
 4. Grad-CAM outputs are saved automatically to your Drive
