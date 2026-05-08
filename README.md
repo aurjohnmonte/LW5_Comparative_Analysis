@@ -45,9 +45,9 @@
 
 | Model | Train Accuracy | Train Loss | Test Accuracy | Test Loss | Precision | Recall | F1-score | ROC AUC |
 |---|---|---|---|---|---|---|---|---|
-| Pre-Trained Model 1 (VGG16) | | | | | | | | |
-| Pre-Trained Model 2 (ResNet50) | | | | | | | | |
-| Pre-Trained Model 3 (MobileNetV2) | | | | | | | | |
+| Pre-Trained Model 1 (VGG16) |0.9170 |0.3895 |0.9780 |0.1687 | | | | |
+| Pre-Trained Model 2 (ResNet50) |0.2370 |2.4083 |0.4640 |2.1895 | | | | |
+| Pre-Trained Model 3 (MobileNetV2) |0.9962 |0.0215 |0.9980 |0.0106 | | | | |
 | Model from Teachable Machine | | | | | | | | |
 | Your 1st Model | | | | | | | | |
 | Your 2nd Model | | | | | | | | |
