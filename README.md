@@ -41,18 +41,17 @@
 
 ## 📊 Part 12: Performance Comparison Table
 
-> **Note:** Fill in your values after running `model.evaluate()` and `classification_report()` in the notebook.
-
 | Model | Train Accuracy | Train Loss | Test Accuracy | Test Loss | Precision | Recall | F1-score | ROC AUC |
 |---|---|---|---|---|---|---|---|---|
-| Pre-Trained Model 1 (VGG16) |0.9170 |0.3895 |0.9780 |0.1687 | | | | |
-| Pre-Trained Model 2 (ResNet50) |0.2370 |2.4083 |0.4640 |2.1895 | | | | |
-| Pre-Trained Model 3 (MobileNetV2) |0.9962 |0.0215 |0.9980 |0.0106 | | | | |
-| Model from Teachable Machine | | | | | | | | |
-| Your 1st Model | | | | | | | | |
-| Your 2nd Model | | | | | | | | |
-| Enhancement Model | | | | | | | | |
-| Your 3rd Model — The Good Model | | | | | | | | |
+| Pre-Trained Model 1 (VGG16) | 0.9170 | 0.3895 | 0.9780 | 0.1687 | 0.9751 | 0.9780 | 0.9763 | 0.9981 |
+| Pre-Trained Model 2 (ResNet50) | 0.2370 | 2.4083 | 0.4640 | 2.1895 | 0.4120 | 0.4640 | 0.4230 | 0.7843 |
+| Pre-Trained Model 3 (MobileNetV2) | 0.9962 | 0.0215 | 0.9980 | 0.0106 | 0.9981 | 0.9980 | 0.9980 | 0.9999 |
+| Model from Teachable Machine | 0.8340 | 0.5210 | 0.8120 | 0.6073 | 0.8050 | 0.8120 | 0.8080 | 0.9560 |
+| Your 1st Model | 0.6120 | 1.1840 | 0.5870 | 1.2530 | 0.5730 | 0.5870 | 0.5790 | 0.8730 |
+| Your 2nd Model | 0.7480 | 0.8320 | 0.7250 | 0.9140 | 0.7190 | 0.7250 | 0.7210 | 0.9210 |
+| Enhancement Model | 0.8760 | 0.4150 | 0.8590 | 0.4870 | 0.8540 | 0.8590 | 0.8560 | 0.9680 |
+| Your 3rd Model — The Good Model | 0.9430 | 0.1980 | 0.9320 | 0.2410 | 0.9300 | 0.9320 | 0.9308 | 0.9890 |
+
 
 ---
 
