@@ -213,3 +213,19 @@ The trained model can be deployed through the following pipelines:
 
 In all cases, input preprocessing (resizing to 224×224, normalization) must be replicated exactly on the deployment side to match what the model expects.
 
+
+<img width="1769" height="113" alt="image" src="https://github.com/user-attachments/assets/a223f5fb-871a-409f-90a7-7d8b6f8d3318" />
+<img width="1306" height="373" alt="image" src="https://github.com/user-attachments/assets/b56c2eb1-f466-4269-af7a-b79cb57e6f28" />
+<img width="1027" height="269" alt="image" src="https://github.com/user-attachments/assets/64151999-5d6c-4f64-a3c3-1e36183f37da" />
+<img width="988" height="268" alt="image" src="https://github.com/user-attachments/assets/357ca99a-f763-4482-a76d-cc18020b0fdd" />
+<img width="968" height="268" alt="image" src="https://github.com/user-attachments/assets/a4876b84-8c2a-4978-9ae2-58ad09d1a8bb" />
+<img width="1746" height="487" alt="image" src="https://github.com/user-attachments/assets/19a7b830-871a-4b93-9c09-5f537543cbc2" />
+<img width="1726" height="685" alt="image" src="https://github.com/user-attachments/assets/8e5d0ff6-01be-4c30-b66c-1bda4ac37298" />
+
+
+
+
+
+
+
+
